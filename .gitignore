@@ -1,0 +1,12 @@
+*.bc
+Build_Entidade.bat
+Entidade.EXE
+*.map
+*.tds
+*.log
+*.c
+*.obj
+SQL.CONFIG
+*.bat
+Entidade.bak
+*.xTag

@@ -1,0 +1,49 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 22/08/2017 15:38:33                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="729685">
+   <option outputname="Entidade">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="include">
+   <option pathlib="lib">
+   <option pathobj="">
+   <option pathtooutput="obj">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="471317,449997,729685">
+      <option rdd2="Sim">
+   </compilerparam>
+
+   <unit filename="src\principal.prg" main="true" compile="Sim">
+   <unit filename="src\model\usuario.prg" compile="Sim">
+   <unit filename="include\Entidade.CH" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\libmysql.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\oci.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\odbccp32.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\sql.lib" compile="Sim">
+   <unit filename="C:\Des\build\xhb\lib\libsql\sqlbcc58.lib" compile="Sim">
+   <unit filename="src\view\ManterTabela.prg" compile="Sim">
+   <unit filename="src\view\ManterUsuario.prg" compile="Sim">
+   <unit filename="src\framework\FastRepH.prg" compile="Sim">
+   <unit filename="src\framework\FastRepHPadrao.prg" compile="Sim">
+   <unit filename="lib\Entidade.LIB" compile="Sim">
+</project>
